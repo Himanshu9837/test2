@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hello Esports4g <a href="https://esports4g.com/">Digital Games</a>
+          Hello Esports4 <a href="https://esports4g.com/">Digital Games</a>
         </h1>
         {/* <p className={styles.description}>
           Get started by editing{' '}
